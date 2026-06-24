@@ -1,8 +1,8 @@
-# Hi 👋, I'm Colllins 
+# Hi, I'm Colllins 
 
 ### IT Student learning, building, and exploring emerging technologies
 
-- 🔭 I'm currently working on **Job Application Assistant a full-stack application designed to simplify job searching by tracking applications, managing opportunities, and keeping application data organized. **
+- 🔭 I'm currently working on Job Application Assistant a full-stack application designed to simplify job searching by tracking applications, managing opportunities, and keeping application data organized. 
 
 - 🌱 I'm currently learning **Spring Boot, REST API Development, Microsoft Azure, Typescript, System Design Fundamentals**
 
