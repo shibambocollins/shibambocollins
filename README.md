@@ -2,10 +2,12 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=shibambocollins&theme=tokyonight)
 
-<p align="center">
-  <a href="https://www.collinsshibambo.dev/">
-    <img src="https://img.shields.io/badge/_View_My_Portfolio-collinsshibambo.dev-7c3aed?style=for-the-badge" alt="View my portfolio" />
-  </a>
-</p>
+<a href="https://www.collinsshibambo.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-light.svg">
+    <img alt="Open my portfolio at collinsshibambo.dev" src="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-light.svg" width="360">
+  </picture>
+</a>
 
 
