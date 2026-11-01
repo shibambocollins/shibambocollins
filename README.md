@@ -4,10 +4,9 @@
 
 <a href="https://www.collinsshibambo.dev/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-light.svg">
-    <img alt="Open my portfolio at collinsshibambo.dev" src="https://raw.githubusercontent.com/shibambocollins/shibambocollins/main/portfolio-button-light.svg" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="portfolio-button-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="portfolio-button-light.svg">
+    <img alt="Open my portfolio at collinsshibambo.dev" src="portfolio-button-light.svg" width="360">
   </picture>
 </a>
-
 
